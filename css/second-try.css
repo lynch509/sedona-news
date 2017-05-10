@@ -337,7 +337,7 @@ img.sun {
 	-webkit-animation-fill-mode: forwards;
 }
 
-#sun {
+/*#sun {
 		-webkit-animation: rotation 10s infinite linear;
 }
 
@@ -352,7 +352,7 @@ img.sun {
 @-webkit-keyframes rotate {
 	0% {-webkit-transform: rotate(0deg);}
 	100% {-webkit-tansform:rotate(360deg);}
-}
+}*/
 
 .articles {
 	position: absolute;
